@@ -1,5 +1,10 @@
-### Hi there 👋
+<h3 align="center">Hi there! I'm Aman 👋</h3>
+<h3> 📖 About me </h3>
 
+* 💻 I'm a software developer who likes working with Python and Django
+* 🌱 I enjoy tinkering around with new languages and technologies
+* 🎓 I'm a 2nd year Computer Engineering student at the University of Waterloo
+* 🌐 I'm currently working on a personal website (Release Date: TBD)
 <!--
 **AmanShah-11/AmanShah-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
