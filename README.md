@@ -1,4 +1,4 @@
-<h3 align="center">Hi there! I'm Aman 👋</h3>
+<h3 align="left">Hi there! I'm Aman 👋</h3>
 <h3> 📖 About me </h3>
 
 * 💻 I'm a software developer who likes working with Python and Django
