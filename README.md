@@ -3,7 +3,7 @@
 
 * 💻 I'm a software developer who likes working with Python, Django and React
 * 🌱 I enjoy tinkering around with new languages and technologies
-* 🎓 I'm a 2nd year Computer Engineering student at the University of Waterloo
+* 🎓 I'm a 3rd year Computer Engineering student at the University of Waterloo
 * 🌐 I'm always looking for opportunities to grow so feel free to reach out! 😄
 
 🏡 [website][website] **|** 
